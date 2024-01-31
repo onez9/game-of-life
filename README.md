@@ -3,7 +3,7 @@
 Установка:
 ```bash
 git clone https://github.com/onez9/game-of-life.git
-cd Game_of_life
+cd game-of-life 
 pip3 install -r requirements.txt
 ```
 
