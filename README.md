@@ -1,7 +1,7 @@
 #### Простой клеточный автомат, ака игра-жизнь
 
 Установка:
-```
+```bash
 git clone https://github.com/zakhar1101/Game_of_life/
 cd Game_of_life
 pip3 install -r requirements.txt
