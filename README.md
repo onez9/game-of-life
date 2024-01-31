@@ -1,6 +1,5 @@
-# Games
+####Простой клеточный автомат, ака игра-жизнь
 
-Простой клеточный автомат, ака игра-жизнь
 install:
 ```
 git clone https://github.com/zakhar1101/Game_of_life/
