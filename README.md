@@ -1,15 +1,15 @@
 #### Простой клеточный автомат, ака игра-жизнь
 
-install:
+Установка:
 ```
 git clone https://github.com/zakhar1101/Game_of_life/
 cd Game_of_life
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
-start:
+Запуск:
 ```python
-python graph_game.py
+python3 graph_game.py
 
 ```
 
